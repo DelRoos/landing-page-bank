@@ -121,14 +121,14 @@
         }
     }
 
-    &__cta {
-        font-size: $font_sm;
-        color: $white; 
-        transition: opacity 300ms ease-in-out;
+    // &__cta {
+    //     // font-size: $font_sm;
+    //     color: $white; 
+    //     transition: opacity 300ms ease-in-out;
 
-        &:hover {
-            opacity: 0.75;
-        }
-    }
+    //     &:hover {
+    //         opacity: 0.75;
+    //     }
+    // }
 
 }
