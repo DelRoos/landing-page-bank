@@ -563,6 +563,7 @@ button, .button {
         -ms-grid-column-align: end;
             justify-self: end; } }
   .footer .attribution {
+    text-align: center;
     margin-top: 4rem;
     font-size: 0.875rem; }
 /*# sourceMappingURL=style.css.map */
